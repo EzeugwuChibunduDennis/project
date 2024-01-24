@@ -1,0 +1,19 @@
+#h1{
+  color: red;
+  text-align: center;
+}
+#h2{
+  font-style: italic;
+}
+#image{
+  float: left;
+}
+#p1{
+  color: brown;
+}
+table{
+  clear: left;
+}
+#p2{
+  clear: left;
+}
